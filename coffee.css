@@ -1,0 +1,605 @@
+@import url('https://fonts.googleapis.com/css2?family=cookies&family=great+vibes&display=swap');
+
+
+body{
+    margin: 0px;
+}
+.col{
+    width: 100%;
+    height: 1000px;
+}
+.coffee1{
+    background-image: url(./images/coffee-cup-beans2.jpg);
+    background-size: cover;
+    padding-top: 100px;
+    height: 1155px;
+    position: relative;
+    
+   
+}
+.navbar{
+   
+    height: 51px;
+    background-color: white;
+    padding-top: -280px;
+    margin-top: -40px;
+    padding-top: 9px;
+   
+}
+
+.logo{
+    width: 282px;
+    height: 175px;
+    margin-top: -65px;
+    margin-left: -142px;
+    position: absolute;
+}
+.coffee2{
+    height: 1500px;
+    background-color: rgb(247, 247, 247);
+
+}
+
+.phot1{
+    margin-top: 83px;
+    width: 40%;
+    height: 600px;
+    background-image: url(./images/cappuccino2.jpg);
+    background-size: cover;
+    float: left;
+    margin-left: 176px;
+    border-radius: 75px 0px 200px 0px;
+    cursor: pointer;
+    transition:border-radius 700ms;
+}
+.phot1:hover{
+    border-radius: 250px 250px 250px 250px;
+}
+
+.phot2{
+    margin-top: -605px;
+    width: 40%;
+    height: 600px;
+    background-image: url(./images/Smart-Coffee-Mug-2.jpg);
+    background-size: cover;
+    float: left;
+    margin-left: 982px;
+    border-radius: 75px 0px 200px 0px;
+    cursor: pointer;
+    transition:border-radius 700ms;
+    
+}
+.phot2:hover{
+    border-radius: 250px 250px 250px 250px;
+}
+
+.phot3{
+    margin-top: 73px;
+    margin-left: 175px;
+    width: 40%;
+    height: 600px;
+    background-image: url(./images/mancoffee2.jpg);
+    background-size: cover;
+    float: left;
+    border-radius: 75px 0px 200px 0px;
+    cursor: pointer;
+    transition:border-radius 700ms;
+    
+}
+.phot3:hover{
+    border-radius: 250px 250px 250px 250px;
+}
+
+
+.phot4{
+    margin-top: 69px;
+    margin-left: 45px;
+    width: 40%;
+    height: 600px;
+    background-image: url(./images/closeup2.jpg);
+    background-size: cover;
+    float: left;
+    border-radius: 75px 0px 200px 0px;
+    cursor: pointer;
+    transition:border-radius 700ms;
+    
+}
+.phot4:hover{
+    border-radius: 250px 250px 250px 250px;
+}
+
+.coffee3{
+    height: 1710px;
+    background-color: #dbdbdb;
+    margin-top: -75px;
+    position: relative;
+}
+.coffee4{
+    background-image: url(./images/coffee\ main2.jpg);
+    background-size: cover;
+    margin-top: -47px;
+}
+.coffee5{
+    background-image: url(./images/coffee\ beans2.jpg);
+    background-size: cover;
+    margin-top: -47px;
+}
+.coffee6{
+    background-image: url(./images/coffeegirl2.jpg);
+    background-size: cover;
+    margin-top: -47px;
+}
+.coffee7{
+    background-image: url(./images/plantation2.jpg);
+    background-size: cover;
+    margin-top: -47px;
+}
+.videobox{
+    height: 1639px;
+    background-color:  rgb(247, 247, 247);
+    margin-top: -21px;
+    position: relative;
+}
+.coffee8{
+    height: 1101px;
+    background-color:  rgb(247, 247, 247);
+    
+}
+.form{
+    width: 80%;
+    height: 1000px;
+    background-color: #dbdbdb;
+    float: left;
+    margin-left: 195px;
+    margin-bottom: 400px;
+    border-radius: 100px 0px 300px 0px;
+   position: relative;
+}
+.for1{
+    width: 50%;
+    height: 1670px;
+    background-color:#dbdbdb
+    position: absolute;
+    
+}
+.for2{
+    width: 50%;
+    height: 675px;
+    margin-left: 1520px;
+    position: absolute;
+    background-color: transparent;
+    margin-left: 820px;
+    padding-top: -249px;  
+    margin-top: -1595px;
+    position: absolute;
+
+}
+
+.coffee9{
+    height: 600px;
+    background-color: rgb(247, 247, 247);
+    margin-top: -307px;
+    float: left;
+    position: relative;
+}
+.f1{
+    background-color: black;
+    height: 120px;
+    margin-top: 351px;
+    padding-top: 129px;
+    position: absolute;
+
+}
+.f2{
+    height: 336px;
+    background-color: grey;
+    margin-top: 10px;
+    position: absolute;
+}
+.myname{
+    font-size: 50px;
+    margin-left: -110px;
+    margin-top: -19px;
+}
+.label{
+    margin-left: 93px;
+    font-size: 30px;
+}
+.inp{
+    width: 298px;
+    height: 38px;
+    margin-bottom: 10px;
+
+}
+.para{
+    font-size: 20px;
+    padding-left: 95px;
+    width: 407px;
+}
+.bean{
+    width: 618px;
+    height: 612px;
+    margin-left: -116px;
+    margin-top: -214px;
+    position: sticky;
+    top: 0px;
+}
+.pro{
+    width: 366px;
+    height: 428px;
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+
+}
+.pdt1{
+    left: 585px;
+    top: 175px;
+}
+.pdt2{
+    left: 158px;
+    top: 175px;
+}
+.pdt3{
+    left: 1014px;
+    top: 175px;
+}
+.pdt4{
+    left: 1438px;
+    top: 175px;
+}
+.pdt5{
+    left: 585px;
+    top: 700px;
+}
+.pdt6{
+    left:158px; 
+    top: 700px;
+}
+.pdt7{
+    left: 1014px;
+    top: 700px;
+}
+.pdt8{
+    left: 1438px;
+    top: 700px;
+}
+.pdt9{
+    left: 585px;
+    top: 1225px;
+}
+.pdt10{
+    left: 158px;
+    top: 1225px;
+}
+.pdt11{
+    left: 1014px;
+    top: 1225px;
+}
+.pdt12{
+    left: 1438px;
+    top: 1225px;
+}
+.st{
+    padding-left: 29px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+.rec{
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.sus{
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.btn{
+    width: 108px;
+    height: 34px;
+    margin-left: 934px;
+    border: 0px;
+   
+}
+.btn1{
+    width: 38px;
+    height: 32px;
+    margin-left: 19px;
+    border: 0px;
+    background-color: white;
+}
+.btn2{
+    width: 38px;
+    height: 32px;
+    margin-left: 36px;
+    border: 0px;
+    background-color: white;
+}
+.start{
+    font-size: 70px;
+    margin-top: 192px;
+    margin-left: 43px;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-delay: 3s;
+    
+
+}
+@keyframes example {
+    
+    
+    50%  {font-size:90px;}
+    
+   
+  }
+.first{
+    width: 817px;
+    font-size: 40px;
+    margin-left: 145px;
+    margin-top: 601px;
+    font-family: 'Great Vibes', cursive;
+}
+.mainbtn{
+    width: 298px;
+    font-size: 18px;
+        height: 46px;
+        background-color: transparent;
+        border: solid white 2px;
+        color: white;
+        margin-left: 85px;
+        margin-bottom: -94px;
+        margin-top: -56px;
+        border-radius: 0px 0px 20px 0px;
+        cursor: pointer;
+        transition: background-color 1s,color 1s;
+}
+.mainbtn:hover{
+    background-color: white;
+    color: black;
+}
+.recpee2{
+    color: white;
+    font-size: 50px;
+    margin-top: 158px;
+    font-weight: bolder;
+}
+.para2{
+    color: white;
+    font-size: 25px;
+    margin-top: -25px;
+    width: 629px;
+    font-weight: bold;
+}
+.sma{
+    color: white;
+    font-size: 50px;
+    margin-top: 158px;
+    font-weight: bolder;
+
+}
+.smap{
+    color: white;
+    font-size: 25px;
+    margin-top: -25px;
+    width: 629px;
+    font-weight: bold;
+
+}
+.sma2{
+    color: white;
+    font-size: 50px;
+    margin-top: 289px;
+    font-weight: bolder;
+
+}
+.smap2{
+    color: white;
+    font-size: 25px;
+    margin-top: -25px;
+    width: 629px;
+    font-weight: bold;
+
+}
+.sma3{
+    color: white;
+    font-size: 50px;
+    margin-top: 232px;
+    font-weight: bolder;
+
+}
+.pro:hover{
+    width: 406px;
+    height: 468px;
+    box-shadow: 0 4px 8px 0 rgba(65, 65, 65, 0.87), 0 6px 20px 0 rgba(75, 75, 75, 0.877);
+    transition: width 1s,height 1s;
+}
+div.pro{
+
+box-shadow:0 4px 8px 0 rgb(255 255 255 / 34%), 0 6px 20px 0 rgb(0 0 0 / 48%);
+
+}
+.big{
+    font-size: 70px;
+    padding-top: 325px;
+    margin-left: 8px;
+    color: white;
+}
+.bigpara{
+    width: 1000px;
+    font-size: 35px;
+    margin-left: 10px;
+    color: white;
+}
+.bigbtn{
+    width: 170px;
+    height: 45px;
+    font-size: 20px;
+    padding-top: -2px;
+    margin-left: 10px;
+    color: white;
+    background-color: transparent;
+    border: solid 2px white;
+    border-radius: 0px 0px 20px 0px;
+    cursor: pointer;
+    transition: background-color 1s,color 1s;
+}
+.bigbtn:hover{
+    background-color: white;
+    color: black;
+}
+.laslab{
+    font-size: 30px;
+    margin-top: 100px;
+}
+.lasin{
+    width: 650px;
+    height: 75px;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.laspara{
+    width: 560px;
+    font-size: 20px;
+}
+.submit{
+    width: 227px;
+    height: 56px;
+    background-color: #d92e2e;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: 0px;
+    margin-top: 100px;
+    border-radius: 0px 0px 31px 0px;
+    cursor: pointer;
+    transition: background-color 1s;
+}
+.submit:hover{
+    background-color: hsl(0, 100%, 51%);
+}
+.ourcoffees{
+    margin-top: 10px;
+    padding-top: 68px;
+}
+.laslogo{
+    width: 346px;
+    height: 226px;
+    margin-left: 50px;
+    margin-top: 78px;
+}
+.video{
+    height: 1629px;
+    position: relative;
+    margin-top: -21px;
+   
+}
+.boxx{
+    width: 550px;
+    height: 400px;
+    background-color: #dbdbdb;
+    position: absolute;
+}
+.plant1{
+    left: 342px;
+    top: 134px;
+
+}
+.plant2{
+    left: 685px;
+    top: 1119px;
+
+}
+.plant3{
+    left: 342px;
+    top: 625px;
+
+}
+.plant4{
+    left: 1016px;
+    top: 625px;
+
+}
+.plant5{
+    left: 1016px;
+    top: 134px;
+
+}
+video{
+    width: 500px;
+    height: 200px;
+}
+.ours{
+    padding: 35px;
+}
+img{
+    width: 149px;
+    height: 171px;
+    margin-left: 7px;
+    margin-top: 23px;
+}
+.pdthead{
+    padding-left: 25px;
+    font-size: 25px;
+}
+
+.pdtpara{
+    padding-left: 10px;
+}
+.buybutton{
+    width: 115px;
+    padding-top: 6px;
+    background-color: #b9b90b;
+    height: -26px;
+    margin-top: 7px;
+    border-radius: 0px 0px 20px 0px;
+    border: 0px;
+    height: 35px;
+    cursor: pointer;
+    transition: background-color 1s,color 1s;
+}
+.buybutton:hover{
+    background-color: #ecec2e;
+
+}
+.ada{
+    margin-top: 100px;
+    font-size: 50px;
+}
+.aba{
+    font-size: 20px;
+}
+.bab{
+    background-color: transparent;
+    border: 0px;
+    color: rgb(255, 255, 255);
+}
+.copoo{
+    color: white;
+    padding-top: 132px;
+    padding-left: 164px;
+}
+.contoo{
+    color: white;
+    padding-top: 202px;
+    padding-left: 180px;
+    font-size: 20px;
+}
+.st{
+    color: black;
+    margin-left: 46px;
+    cursor: pointer;
+}
+.st:hover{
+    color: #d92e2e;
+    font-style: italic;
+}
+.fall{
+    padding-left: 929px;
+    width: 452px;
+    height: 665px;
+    margin-top: -134px;
+    position: sticky;
+    top: 0px;
+}
